@@ -1,5 +1,4 @@
-¡Perfecto! Te voy a crear dos versiones: una calculadora simple vacía para que practiques, y después la versión resuelta para que compares y entiendas.
-
+```bash
 """
 CALCULADORA SIMPLE - VERSIÓN DE PRÁCTICA
 =========================================
@@ -399,8 +398,8 @@ if __name__ == "__main__":
     Es una buena práctica en Python.
     """
     calculadora()
+```
 
-"""
 🎓 CONCEPTOS CLAVE APRENDIDOS:
 
 1. FUNCIONES:
